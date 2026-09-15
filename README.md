@@ -1,8 +1,6 @@
 # AgentTube - ECGHuNZSECqTXabaLjkVrTEnguiNZLkKF1qi8oBGpump
 
-**The open-source AI agent that runs a YouTube channel end to end.**
-
-Join our telegram community: https://t.co/L4SzbqosOM
+**The open-source AI agent that runs a YouTube channel 
 
 Research topics → write scripts → generate narration and visuals → assemble videos → optimize metadata → review → schedule → publish → learn from analytics and from what your audience says.
 
